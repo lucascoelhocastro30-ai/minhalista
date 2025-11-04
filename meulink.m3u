@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR.xml.gz"
 #EXTINF:-1 tvg-id="globoplay-novelas" tvg-name="• GLOBOPLAY NOVELAS HD" tvg-logo="https://i.imgur.com/noHQXNO.png" group-title="VARIADOS",• GLOBOPLAY NOVELAS HD
 http://landy.com.br:80/46517864/67232152/1542020.m3u8
 #EXTINF:-1 tvg-id="globoplay-novelas" tvg-name="- GLOBOPLAY NOVELAS HD" tvg-logo="https://i.imgur.com/YSa7RCE.png" group-title="VARIADOS",- GLOBOPLAY NOVELAS HD
