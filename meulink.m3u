@@ -1361,3 +1361,25 @@ http://landy.com.br:80/46517864/67232152/1542238.m3u8
 http://landy.com.br:80/46517864/67232152/1542240.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="• BAND SPORTS FHD" tvg-logo="https://i.imgur.com/P24Rs5l.png" group-title="BAND SPORTS",• BAND SPORTS FHD
 http://landy.com.br:80/46517864/67232152/1542236.m3u8
+#EXTINF:-1 tvg-name="• PRIME VIDEO 01" tvg-logo="https://i.imgur.com/6gA4IQC.png" group-title="PRIME VIDEO",• PRIME VIDEO 01
+http://landy.com.br:80/46517864/67232152/1542403.m3u8
+#EXTINF:-1 tvg-name="- PRIME VIDEO 01" tvg-logo="https://i.imgur.com/FRXHC9z.png" group-title="PRIME VIDEO",- PRIME VIDEO 01
+http://landy.com.br:80/46517864/67232152/14393321.m3u8
+#EXTINF:-1 tvg-name="• PRIME VIDEO 02" tvg-logo="https://i.imgur.com/6gA4IQC.png" group-title="PRIME VIDEO",• PRIME VIDEO 02
+http://landy.com.br:80/46517864/67232152/1542404.m3u8
+#EXTINF:-1 tvg-name="• PRIME VIDEO 03" tvg-logo="https://i.imgur.com/6gA4IQC.png" group-title="PRIME VIDEO",• PRIME VIDEO 03
+http://landy.com.br:80/46517864/67232152/1542405.m3u8
+#EXTINF:-1 tvg-name="• PRIME VIDEO 04" tvg-logo="https://i.imgur.com/6gA4IQC.png" group-title="PRIME VIDEO",• PRIME VIDEO 04
+http://landy.com.br:80/46517864/67232152/1542406.m3u8
+#EXTINF:-1 tvg-name="• PRIME VIDEO 05" tvg-logo="https://i.imgur.com/6gA4IQC.png" group-title="PRIME VIDEO",• PRIME VIDEO 05
+http://landy.com.br:80/46517864/67232152/1542407.m3u8
+#EXTINF:-1 tvg-name="BAND RJ HD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="REDE BAND",BAND RJ HD
+http://landy.com.br:80/46517864/67232152/1541886.m3u8
+#EXTINF:-1 tvg-name="BAND RS HD [ALT]" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="REDE BAND",BAND RS HD [ALT]
+http://landy.com.br:80/46517864/67232152/1541887.m3u8
+#EXTINF:-1 tvg-name="BAND SP FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="REDE BAND",BAND SP FHD
+http://landy.com.br:80/46517864/67232152/1541889.m3u8
+#EXTINF:-1 tvg-name="BAND SP HD⁺" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="REDE BAND",BAND SP HD⁺
+http://landy.com.br:80/46517864/67232152/1541891.m3u8
+#EXTINF:-1 tvg-name="BAND SP SD⁺" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="REDE BAND",BAND SP SD⁺
+http://landy.com.br:80/46517864/67232152/1541893.m3u8
